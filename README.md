@@ -41,7 +41,7 @@
 
 ![题数榜_2_.png](https://i.loli.net/2021/07/25/wt9pHEScjVh7Qgb.png)
 
-![CF榜_3_.png](https://i.loli.net/2021/07/25/re1QfRjmCiAEJsu.png)
+![CF榜2.png](https://i.loli.net/2021/07/25/9Q7wnbMCJGWDYVE.png)
 
  **分队**
  
