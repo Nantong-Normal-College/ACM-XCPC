@@ -39,7 +39,7 @@
 **榜单每周更新**
 ![](https://raw.githubusercontent.com/Joker-lkc/-2020-2021-ACM-ICPC/main/%E5%9B%BE%E7%89%872.png)
 ![](https://github.com/Joker-lkc/-2020-2021-ACM-ICPC/blob/main/%E5%9B%BE%E7%89%871.png)
-![](https://github.com/Joker-lkc/-2020-2021-ACM-ICPC/blob/main/%E5%9B%BE%E7%89%871.png)
+![](https://github.com/Nantong-Normal-College/ACM-XCPC/blob/main/CF%E6%A6%9C.png?raw=true)
 
  **分队**
  
