@@ -1,4 +1,4 @@
-# 通师高专2020-2021-ACM-ICPC
+# 通师高专ACM-XCPC
 
 **Rating 计算方法：**
 
