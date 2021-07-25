@@ -37,9 +37,10 @@
 注: OJ 刷题量统计数据来源 NWPU-ACM [查询系统](https://ojhunt.com/statistics)
 
 **榜单每周更新**
-![](https://raw.githubusercontent.com/Joker-lkc/-2020-2021-ACM-ICPC/main/%E5%9B%BE%E7%89%872.png)
-![](https://github.com/Joker-lkc/-2020-2021-ACM-ICPC/blob/main/%E5%9B%BE%E7%89%871.png)
-![](https://github.com/Nantong-Normal-College/ACM-XCPC/blob/main/CF%E6%A6%9C.png?raw=true)
+
+![](https://raw.githubusercontent.com/Nantong-Normal-College/ACM-XCPC/main/CF%E6%A6%9C.png)
+![](https://raw.githubusercontent.com/Nantong-Normal-College/ACM-XCPC/main/%E7%BB%BC%E5%90%88%E6%A6%9C.png)
+![](https://raw.githubusercontent.com/Nantong-Normal-College/ACM-XCPC/main/%E9%A2%98%E6%95%B0%E6%A6%9C.png)
 
  **分队**
  
