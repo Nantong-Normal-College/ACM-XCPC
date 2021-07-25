@@ -38,7 +38,7 @@
 
 **榜单每周更新**
 
-![](https://raw.githubusercontent.com/Nantong-Normal-College/ACM-XCPC/main/CF%E6%A6%9C.png)
+![](https://github.com/Nantong-Normal-College/ACM-XCPC/blob/main/CF%E6%A6%9C.png)
 ![](https://raw.githubusercontent.com/Nantong-Normal-College/ACM-XCPC/main/%E7%BB%BC%E5%90%88%E6%A6%9C.png)
 ![](https://raw.githubusercontent.com/Nantong-Normal-College/ACM-XCPC/main/%E9%A2%98%E6%95%B0%E6%A6%9C.png)
 
