@@ -2,7 +2,7 @@
 
 **Rating 计算方法：**
 
-队内 Rating 分为二部分, **在线比赛 Rating, 刷题 Rating.** 会定期统计Rating排名.
+队内 Rating 分为两部分, **在线比赛 Rating, 刷题 数量.** 会定期**统计综合排名，题数排名，Codeforces Rating排名**.
 
  - **PS：日常训练若发现有作弊行为达到2次直接踢出**
  - 在线比赛:
@@ -10,10 +10,10 @@
     - **Atcoder**
     - **Nowcoder**
     - **CodeChef**
- - Codeforce rating 计算方法: 最近一场的Rating * 0.8 + 有效场次 * 2（参加rating场数未达到5场或Rating低于800则不计分）
- - Atcoder rating 计算方法：最近一场的Rating * 1 + 有效场次 * 2（参加rating场数未达到5场或Rating低于100则不计分）
- - Nowcode rating 计算方法: 最近一场的Rating * 0.5 + 有效场次 * 2（参加rating场数未达到5场或Rating低于800则不计分）
- - CodeChef rating 计算方法: 最近一场的Rating * 0.4 + 有效场次 * 2（参加rating场数未达到5场或Rating低于1500则不计分）
+ - Codeforce rating 计算方法: 最近一场的Rating * 0.8 （Rating低于800则不计分）
+ - Atcoder rating 计算方法：最近一场的Rating * 1 （Rating低于100则不计分）
+ - Nowcode rating 计算方法: 最近一场的Rating * 0.5 （Rating低于800则不计分）
+ - CodeChef rating 计算方法: 最近一场的Rating * 0.4 （Rating低于1500则不计分）
  - 登记时，一人只能申报一个账号，这意味着参加场数和 Rating 将绑定.[账号统计](https://docs.qq.com/sheet/DYVRwTFhzYWtwZXNX?groupUin=2c50vMuLDKF6Uxpa3LKXwg%3D%3D&tdsourcetag=s_macqq_aiomsg&tab=BB08J2)
  - 刷题: 在各大 OJ 上自行刷题, 每题* 1结算.
 
@@ -47,13 +47,22 @@
  
 每赛季前 ，按照Rating 动态分队， 此后该赛季正式分队，不可调整。
 
+**报销**
+ 
+每赛项的参赛费用 ，按照Rating 产出报销名额， 优先给予排名高的队员。
+
+
+**资源**
+ 
+按照Rating 动态分配学习资源， 优先给予排名高的队员，学习资料包括（付费课程，付费训练，定制化题单等）。
+
 **比赛名额分配**
 
  -  网络赛
 
  - 网络赛由各个队伍独立完成, 使用分配的账号看题, 由各队独立比赛争夺名额。
 
-- 分队方式
+ - 分队方式
 队内 Rating 排名1~3 为一队, 以此类推.
 
 - 名额分配
@@ -64,5 +73,5 @@ ICPC、CCPC、ICPC省赛等三人制 ACM/ICPC 规则的比赛名额, 若名额�
 **关于ICPC、CCPC区域赛网络预选赛打出的名额 如该队队员中的Codeforces Rating最高分（按近三场算）未达1400 且该队在该场网络赛中的题数未达到可出线的最低标准，则不能接受其他队伍赠予的名额。（女生队除外）**
 
 - 如队伍中有选手有故不能参赛的, 队伍中其他两人可以选择:
-1. 依次顺延, 与之后队伍中Rating 最高的选手暂时组队参赛.
+1. 依次顺延, 与之后Rating 最高的选手暂时组队参赛.
 2. 自行联系退役选手.
