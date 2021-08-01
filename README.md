@@ -37,11 +37,11 @@
 注: OJ 刷题量统计数据来源 NWPU-ACM [查询系统](https://ojhunt.com/statistics)
 
 **榜单每周更新**
-![综合榜.png](https://i.loli.net/2021/08/01/hEz1lvGceRSwDN4.png)
+![综合榜.PNG](https://i.loli.net/2021/08/01/k2vuVzBrYD7f9T5.png)
 
-![题数榜.png](https://i.loli.net/2021/08/01/hqT97DvGwlAKo15.png)
+![题数榜.png](https://i.loli.net/2021/08/01/ZDtN6A3QLgTozxM.png)
 
-![CF榜.png](https://i.loli.net/2021/08/01/fkLOqCNxnBRzA3H.png)
+![CF榜.png](https://i.loli.net/2021/08/01/ItjWz7DRpVkEyC6.png)
 
  **分队**
  
