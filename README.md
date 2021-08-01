@@ -10,11 +10,11 @@
     - **Atcoder**
     - **Nowcoder**
     - **CodeChef**
- - Codeforce rating 计算方法: 最近一场的Rating * 0.8 （Rating低于800则不计分，若连续 X 月未参与rating比赛，rating * （0.8-0.X））
- - Atcoder rating 计算方法：最近一场的Rating * 1 （Rating低于100则不计分，若连续 X 月未参与rating比赛，rating * （1-0.X））
- - Nowcode rating 计算方法: 最近一场的Rating * 0.5 （Rating低于800则不计分，若连续 X 月未参与rating比赛，rating * （0.5-0.X））
- - CodeChef rating 计算方法: 最近一场的Rating * 0.4 （Rating低于1500则不计分，若连续 X 月未参与rating比赛，rating * （0.4-0.X））
- - 登记时，一人只能申报一个账号，这意味着参加场数和 Rating 将绑定.[账号统计](https://docs.qq.com/sheet/DYVRwTFhzYWtwZXNX?groupUin=2c50vMuLDKF6Uxpa3LKXwg%3D%3D&tdsourcetag=s_macqq_aiomsg&tab=BB08J2)
+ - Codeforce rating 计算方法: 最近一场的Rating * 0.8 （Rating低于800则不计分）
+ - Atcoder rating 计算方法：最近一场的Rating * 1 （Rating低于100则不计分）
+ - Nowcode rating 计算方法: 最近一场的Rating * 0.5 （Rating低于800则不计分）
+ - CodeChef rating 计算方法: 最近一场的Rating * 0.4 （Rating低于1500则不计分）
+ - 登记时，一人只能申报一个账号，这意味着 Rating 和 账号将绑定.[账号统计](https://docs.qq.com/sheet/DYVRwTFhzYWtwZXNX?groupUin=2c50vMuLDKF6Uxpa3LKXwg%3D%3D&tdsourcetag=s_macqq_aiomsg&tab=BB08J2)
  - 刷题: 在各大 OJ 上自行刷题, 每题* 1结算.
 
   目前计入的 OJ 列表:
@@ -54,7 +54,7 @@
 
 **资源**
  
-按照Rating 动态分配学习资源， 优先给予排名高的队员，学习资料包括（付费课程，付费训练，定制化题单等）。
+按照Rating 动态分配学习资源， 优先给予排名高的队员，学习资源包括（答疑，付费课程，付费训练，定制化题单等）。
 
 **比赛名额分配**
 
