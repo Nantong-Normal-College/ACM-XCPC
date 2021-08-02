@@ -10,10 +10,10 @@
     - **Atcoder**
     - **Nowcoder**
     - **CodeChef**
- - Codeforce rating 计算方法: 最近一场的Rating * 0.8 + 有效场次 * 2（参加Rating场数未达到5场或Rating低于1000则不计分）
- - Atcoder rating 计算方法：最近一场的Rating * 1 + 有效场次 * 2（参加Rating场数未达到5场或Rating低于150则不计分）
- - Nowcode rating 计算方法: 最近一场的Rating * 0.5 + 有效场次 * 2（参加Rating场数未达到5场或Rating低于1000则不计分）
- - CodeChef rating 计算方法: 最近一场的Rating * 0.4 + 有效场次 * 2（参加Rating场数未达到5场或Rating低于1500则不计分）
+ - Codeforce rating 计算方法: 最近一场的Rating * 1 + 有效场次 * 2（参加Rating场数未达到5场或Rating低于1000则不计分）
+ - Atcoder rating 计算方法：最近一场的Rating * 0.7 + 有效场次 * 2（参加Rating场数未达到5场或Rating低于150则不计分）
+ - Nowcode rating 计算方法: 最近一场的Rating * 0.2 + 有效场次 * 2（参加Rating场数未达到5场或Rating低于1000则不计分）
+ - CodeChef rating 计算方法: 最近一场的Rating * 0.1 + 有效场次 * 2（参加Rating场数未达到5场或Rating低于1500则不计分）
  - 登记时，一人只能申报一个账号，这意味着 Rating 和 账号将绑定.[账号统计](https://docs.qq.com/sheet/DYVRwTFhzYWtwZXNX?groupUin=2c50vMuLDKF6Uxpa3LKXwg%3D%3D&tdsourcetag=s_macqq_aiomsg&tab=BB08J2)
  - 刷题: 在各大 OJ 上自行刷题, 每题* 1结算.
 
