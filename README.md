@@ -38,11 +38,9 @@
 
 **榜单每周更新**
 
-![综合榜.PNG](https://i.loli.net/2021/08/01/k2vuVzBrYD7f9T5.png)
+![CF榜.png](https://i.loli.net/2021/08/07/fHPwKQSO3mDkANE.png)
 
-![题数榜.png](https://i.loli.net/2021/08/01/ZDtN6A3QLgTozxM.png)
-
-![CF榜.png](https://i.loli.net/2021/08/01/ItjWz7DRpVkEyC6.png)
+![综合榜.jpg](https://i.loli.net/2021/08/07/OMdjNlq6uAJS39U.jpg)
 
  **分队**
  
