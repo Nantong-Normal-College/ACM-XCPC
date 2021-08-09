@@ -2,7 +2,7 @@
 
 **Rating 计算方法：**
 
-队内 Rating 分为两部分, **在线比赛 Rating, 刷题 数量.** 会定期**统计综合排名，题数排名，Codeforces Rating排名**.
+队内 Rating 分为两部分, **在线比赛 Rating, 刷题数量.** 会定期**统计综合排名，题数排名，Codeforces Rating排名**.
 
  - **PS：日常训练若发现有作弊行为达到2次直接踢出**
  - 在线比赛:
