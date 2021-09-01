@@ -36,7 +36,7 @@
 
 注: OJ 刷题量统计数据来源 NWPU-ACM [查询系统](https://ojhunt.com/statistics)
 
-**榜单每周更新**
+**榜单每月更新**
 
 **更新于9月1号**
 
