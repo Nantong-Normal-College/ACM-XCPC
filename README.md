@@ -41,13 +41,13 @@
 **更新于11月30号**
 
 |  **Codeforces      Rating** |
-![CF榜.png](https://i.loli.net/2021/11/30/zUHZ3m4WxKVcnYO.png)
+![X_0MZL83__~IEQF__ZQ__J5.png](https://i.loli.net/2021/11/30/3Lc6XjDRUhtNBm9.png)
 
 **\* 为退役选手**
 
 |  **天梯榜** |
 
-![天梯榜.png](https://i.loli.net/2021/11/30/pU9RzvcFVlSYdXA.png)
+![R6ZA17ZY_3`2WFT_K_EYJ92.png](https://i.loli.net/2021/11/30/kf1ElcnwN6LAjQM.png)
 
  **分队**
  
