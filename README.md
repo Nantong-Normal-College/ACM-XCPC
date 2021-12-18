@@ -23,7 +23,6 @@
  - HDU:http://acm.hdu.edu.cn 
  - codeforce: http://codeforces.com 
  - LOJ:https://loj.ac 
- - ZOJ: http://acm.zju.edu.cn/onlinejudge/
  - Atcoder: https://atcoder.jp 
  - CodeChef:https://www.codechef.com 
  - Nowcoder: https://ac.nowcoder.com
