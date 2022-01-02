@@ -14,7 +14,8 @@
  - Atcoder rating 计算方法：最近一场的Rating * 0.7 + 有效场次 * 2（参加Rating场数未达到3场或Rating低于100则不计分）
  - Nowcode rating 计算方法: 最近一场的Rating * 0.2 + 有效场次 * 2（参加Rating场数未达到3场或Rating低于1000则不计分）
  - CodeChef rating 计算方法: 最近一场的Rating * 0.1 + 有效场次 * 2（参加Rating场数未达到3场或Rating低于1500则不计分）
- - 登记时，一人只能申报一个账号，这意味着 Rating 和 账号将绑定.[账号统计](https://hbn31pkbuk.feishu.cn/sheets/shtcnq9ptRZ1n90BT2HhWENfpUb)
+ - 登记时，一人只能申报一个账号，这意味着 Rating 和 账号将绑定.[账号统计](【金山文档】 科技创新社榜单
+https://kdocs.cn/l/clMYNpJITD53)
  - 刷题: 在各大 OJ 上自行刷题, 每题* 1结算.
 
   目前计入的 OJ 列表:
