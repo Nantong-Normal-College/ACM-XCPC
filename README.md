@@ -41,11 +41,13 @@ https://kdocs.cn/l/clMYNpJITD53)
 **更新于12月31号**
 
 |  **Codeforces      Rating** |
+
 ![12月CF榜.png](https://s2.loli.net/2022/01/03/WnBIeiJkC2FRXuc.png)
 
 **\* 为退役选手**
 
 |  **天梯榜** |
+
 
 ![12月天梯榜.png](https://s2.loli.net/2022/01/03/vTtefSR4VdQGbKL.png)
 
