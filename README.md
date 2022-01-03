@@ -38,16 +38,16 @@ https://kdocs.cn/l/clMYNpJITD53)
 
 **榜单每月更新**
 
-**更新于11月30号**
+**更新于12月31号**
 
 |  **Codeforces      Rating** |
-![X_0MZL83__~IEQF__ZQ__J5.png](https://i.loli.net/2021/11/30/3Lc6XjDRUhtNBm9.png)
+![12月CF榜.png](https://s2.loli.net/2022/01/03/WnBIeiJkC2FRXuc.png)
 
 **\* 为退役选手**
 
 |  **天梯榜** |
 
-![R6ZA17ZY_3`2WFT_K_EYJ92.png](https://i.loli.net/2021/11/30/kf1ElcnwN6LAjQM.png)
+![12月天梯榜.png](https://s2.loli.net/2022/01/03/vTtefSR4VdQGbKL.png)
 
  **分队**
  
